@@ -5,7 +5,7 @@ This repository hosts the privacy policy for the Time Letters mobile application
 ## URL
 
 The privacy policy is publicly accessible at:
-**https://grovvelab.github.io/timeletters-privacy/**
+**https://grovve-lab.github.io/timeletters-privacy/**
 
 ## Setup
 
